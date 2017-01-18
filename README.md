@@ -33,6 +33,7 @@ MSc Chemistry - First Class Hons
 
 **Eötvös Lórán University**, Budapest, Hungary (2010-13) <br>
 BSc Chemistry
+
 -
 --
 
