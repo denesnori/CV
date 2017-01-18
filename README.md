@@ -72,6 +72,15 @@ BSc Chemistry
 
 ### Projects
 
+Projects I worked on at Founders & Coders.
+[blog](https://fac9.github.io/nomastew-blog/)
+[stopwatch](https://github.com/FAC9/stopwatch_ewelina_nori)
+[playing wit an image recognition API](https://github.com/FAC9/gitbusters_api)
+[autocomplete](https://github.com/FAC9/backend-badgers-autocomplete)
+[travel destination finder](https://github.com/FAC9/hapi-places)
+[resource sharing](https://github.com/FAC9/the-badgerer)
+
+
 ### Contact
 
 denes.nori4@gmail.com <br>
