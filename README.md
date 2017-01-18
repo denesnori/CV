@@ -45,7 +45,30 @@ BSc Chemistry
 #### Founders & Coders  
 **October 2016 - Present**
 
+*a short intro is missing, pper lead, preparing materials, meetups..etc*
 
+[16-week, full-time course](http://www.foundersandcoders.com/) in full-stack JavaScript software development. Experienced in the following topics:
+
+* Core principles
+  - Git and GitHub
+  - Agile project management (scrum, sprints, use of GitHub issues)
+  - Pair programming
+  - Test-driven development using QUnit, Jasmine,Tape coverage with Istanbul and Codecov
+  - UX/UI, creating prototypes from wireframes
+  - Deployment on Heroku, including Travis CI
+
+
+* Front-end
+  - Responsive design with HTML5 & CSS3/SASS
+  - Browser Javascript (JQuery, vanilla JS DOM manipulation)
+  - React.js (Redux, Webpack, Babel)
+
+
+* Back-end
+  - Creating servers and RESTful APIs with Node.js
+  - Creating SQL and noSQL databases (Postgres, Redis)
+  - Node server framework (Hapi)
+  - Authentication and session management (OAuth2,cookies and JWT)
 
 ### Projects
 
