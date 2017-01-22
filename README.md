@@ -25,13 +25,13 @@ Coding languages |   Testing     |   Databases  |  Frameworks & Libraries  | Oth
 **Founders & Coders**, London (2016-17) <br>
 16 week full-stack course
 
-**Eötvös Lórán University**, Budapest, Hungary (2015-16) <br>
+**Eötvös Loránd University**, Budapest, Hungary (2015-16) <br>
 PhD Theoretical Chemistry - unfinished
 
-**Eötvös Lórán University**, Budapest, Hungary (2013-15) <br>
+**Eötvös Loránd University**, Budapest, Hungary (2013-15) <br>
 MSc Chemistry - First Class Hons
 
-**Eötvös Lórán University**, Budapest, Hungary (2010-13) <br>
+**Eötvös Loránd University**, Budapest, Hungary (2010-13) <br>
 BSc Chemistry
 
 -
@@ -80,7 +80,7 @@ Projects I worked on at Founders & Coders.
 - [autocomplete](https://github.com/FAC9/backend-badgers-autocomplete)<br>
 - [travel destination finder](https://github.com/FAC9/hapi-places)<br>
 - [resource sharing](https://github.com/FAC9/the-badgerer)<br>
-
+- [oauth project](https://github.com/esraajb/oh-auth)
 
 ### Contact
 
