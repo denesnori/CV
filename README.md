@@ -1,25 +1,27 @@
-## Nora Denes - CV
-Junior Full-Stack Javascript developer
+# Nora Denes - CV
+#### Junior full-stack JavaScript developer
 
-I am junior full-stack developer looking for work in London. My background is in Chemistry, but over time, my interest slowly shifted towards Theoretical and Computational Chemistry, and in the end to programming. I have recently graduated from [Founders & Coders](http://www.foundersandcoders.com/), a highly-selective sixteen week coding bootcamp.
+### Summary
+I am full-stack developer living in London. My background is in Chemistry. Over time, my interest slowly shifted towards Theoretical and Computational Chemistry, and in the end to programming. I have recently graduated from [Founders & Coders](http://www.foundersandcoders.com/), a highly-selective free, peer-lead 16 week long coding bootcamp.
 
-I enjoy creating websites that people use. Coming from an academic background, I take huge pleasure in working together with people from diverse backgrounds.
+I am currently seeking for a permanent role with opportunities for growth and learning. I am
+a hard-working, enthusiastic individual with excellent team working skills.
 I am an avid learner, I enjoy that every day there is something new and exciting to play around with.
 
-I have created a portfolio website which can be found [here](https://denesnori.github.io/portfolio-website/).
+I sample of projects that I  worked on can be found on  [ my portfolio webiste](https://denesnori.github.io/portfolio-website/).
 
 --
 
 ### Skills
 
-Coding languages |   Testing     |   Databases  |  Frameworks & Libraries  | Other tools
-:---------------:|:-------------:|:------------:|:-----------------------: |:-----------:
-    Javascript   |     QUnit     |  postgreSQL  |         Hapi.js          |  Git/Github    
-     Node.js     |    Jasmine    |    Redis     |        Express.js        |  Heroku   
-     HTML5       |  Travis CI    |              |        React.js          |  npm
-     CSS3        |  Circle CI    |              |         Redux            |            
-    	SQL        | Nightwatch.js |              |         Socket.io        |          
-    Markdown     |     Tape      |              |        Handlebars        |
+    Languages    |  Frameworks & Libraries     |   Databases  |     Testing     |   Other
+:---------------:|:---------------------------:|:------------:|:--------------: |:-----------:
+    Javascript   |            Hapi             |  postgreSQL  |     QUnit       |  Git/Github    
+     Node.js     |           Express           |    Redis     |    Jasmine      |  Heroku   
+     HTML5       |           React             |              |    Travis CI    |  npm
+     CSS3        |           Redux             |              |    Circle CI    |  OAuth         
+    	SQL        |         Socket.io           |              |  Nightwatch.js  |  JWT        
+    Markdown     |        Handlebars           |              |     Tape        |               
 --
 
 ### Education
@@ -30,46 +32,28 @@ Coding languages |   Testing     |   Databases  |  Frameworks & Libraries  | Oth
 PhD Theoretical Chemistry - unfinished
 
 **Eötvös Loránd University**, Budapest, Hungary (2013-15) <br>
-MSc Chemistry - First Class Hons
+MSc Chemistry - First-class hons
 
 **Eötvös Loránd University**, Budapest, Hungary (2010-13) <br>
-BSc Chemistry
+BSc Chemistry - Upper second-class hons
 
 -
 --
 
 ### Experience
 
+#### Childline Report Online Content
+**February 2017 - March 2017**
+A month long paid project to create an MVP for Childline. The goal is to build an app for anonymously reporting explicit explicite online content.  The app uses the Yoti API for age verification. This project was funded after prototype pitches to funders from Yoti.
 
 
  <img src="./img/fac.png" width="240">
 #### Founders & Coders  
-**October 2016 - Present**
+**October 2016 - February 2017**
 
-*a short intro is missing, pper lead, preparing materials, meetups..etc*
-
-[16-week, full-time course](http://www.foundersandcoders.com/) in full-stack JavaScript software development. Experienced in the following topics:
-
-* Core principles
-  - Git and GitHub
-  - Agile project management (scrum, sprints, use of GitHub issues)
-  - Pair programming
-  - Test-driven development using QUnit, Jasmine,Tape coverage with Istanbul and Codecov
-  - UX/UI, creating prototypes from wireframes
-  - Deployment on Heroku, including Travis CI
-
-
-* Front-end
-  - Responsive design with HTML5 & CSS3/SASS
-  - Browser Javascript (JQuery, vanilla JS DOM manipulation)
-  - React.js (Redux, Webpack, Babel)
-
-
-* Back-end
-  - Creating servers and RESTful APIs with Node.js
-  - Creating SQL and noSQL databases (Postgres, Redis)
-  - Node server framework (Hapi)
-  - Authentication and session management (OAuth2,cookies and JWT)
+[16-week, full-time course](http://www.foundersandcoders.com/) in full-stack JavaScript software development.
+Peer-led learning environment with emphasis on pair-programming, test driven
+development and agile methodologies. Final projects include building prototypes and MVPs for charities and social enterprises.
 
 ### Projects
 
@@ -86,6 +70,7 @@ Projects I worked on at Founders & Coders.
 Freelance projects and hackathons:
 - [Shared decision making app](https://github.com/FAC9/childline-yoti)
 - [Scidence Museum Quiz App](https://github.com/Science-Adventurers/game-frontend)
+- [Report Online Content](https://github.com/FAC9/childline-yoti)
 
 ### Contact
 
