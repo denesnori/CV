@@ -1,9 +1,7 @@
 ## Nora Denes - CV
 Junior Full-Stack Javascript developer
 
-I am junior full-stack developer looking for work in London.
-
-My background is in Chemistry, but over time, my interest slowly shifted towards Theoretical and Computational Chemistry, and in the end to programming. I have recently graduated from [Founders & Coders](http://www.foundersandcoders.com/), a highly-selective sixteen week coding bootcamp.
+I am junior full-stack developer looking for work in London. My background is in Chemistry, but over time, my interest slowly shifted towards Theoretical and Computational Chemistry, and in the end to programming. I have recently graduated from [Founders & Coders](http://www.foundersandcoders.com/), a highly-selective sixteen week coding bootcamp.
 
 I enjoy creating websites that people use. Coming from an academic background, I take huge pleasure in working together with people from diverse backgrounds.
 I am an avid learner, I enjoy that every day there is something new and exciting to play around with.
@@ -78,16 +76,16 @@ BSc Chemistry
 
 Projects I worked on at Founders & Coders.
 
-- [blog](https://fac9.github.io/nomastew-blog/) <br>
-- [stopwatch](https://github.com/FAC9/stopwatch_ewelina_nori)<br>
-- [playing wit an image recognition API](https://github.com/FAC9/gitbusters_api)<br>
-- [autocomplete](https://github.com/FAC9/backend-badgers-autocomplete)<br>
-- [travel destination finder](https://github.com/FAC9/hapi-places)<br>
-- [resource sharing](https://github.com/FAC9/the-badgerer)<br>
-- [oauth project](https://github.com/esraajb/oh-auth)
+- [Blog](https://fac9.github.io/nomastew-blog/) <br>
+- [Stopwatch](https://github.com/FAC9/stopwatch_ewelina_nori)<br>
+- [Playing with an image recognition API](https://github.com/FAC9/gitbusters_api)<br>
+- [Autocomplete app](https://github.com/FAC9/backend-badgers-autocomplete)<br>
+- [Travel destination finder site](https://github.com/FAC9/hapi-places)<br>
+- [Resource sharing website (CMS)](https://github.com/FAC9/the-badgerer)<br>
+- [Github issue tracker site](https://github.com/esraajb/oh-auth)
 
 Freelance projects and hackathons:
-- [shared decision making app](https://github.com/FAC9/childline-yoti)
+- [Shared decision making app](https://github.com/FAC9/childline-yoti)
 - [Scidence Museum Quiz App](https://github.com/Science-Adventurers/game-frontend)
 
 ### Contact
