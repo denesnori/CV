@@ -1,10 +1,14 @@
 ## Nora Denes - CV
 Junior Full-Stack Javascript developer
 
+I am junior full-stack developer looking for work in London.
 
+My background is in Chemistry, but over time, my interest slowly shifted towards Theoretical and Computational Chemistry, and in the end to programming. I have recently graduated from [Founders & Coders](http://www.foundersandcoders.com/), a highly-selective sixteen week coding bootcamp.
 
+I enjoy creating websites that people use. Coming from an academic background, I take huge pleasure in working together with people from diverse backgrounds.
+I am an avid learner, I enjoy that every day there is something new and exciting to play around with.
 
-I have created a website for my CV which can be found [here]().
+I have created a portfolio website which can be found [here](https://denesnori.github.io/portfolio-website/).
 
 --
 
@@ -13,12 +17,12 @@ I have created a website for my CV which can be found [here]().
 Coding languages |   Testing     |   Databases  |  Frameworks & Libraries  | Other tools
 :---------------:|:-------------:|:------------:|:-----------------------: |:-----------:
     Javascript   |     QUnit     |  postgreSQL  |         Hapi.js          |  Git/Github    
-     Node.js     |    Jasmine    |    Redis     |        React.js          |  Heroku   
-     HTML5       |  Travis CI    |              |         Redux            |  npm
-     CSS3        | Nightwatch.js |              |         Socket.io        |            
-    	SQL        |     Tape      |              |        Handlebars                  |          
-    Markdown     |               |              |                          |
-     Elm         |               |              |                          |
+     Node.js     |    Jasmine    |    Redis     |        Express.js        |  Heroku   
+     HTML5       |  Travis CI    |              |        React.js          |  npm
+     CSS3        |  Circle CI    |              |         Redux            |            
+    	SQL        | Nightwatch.js |              |         Socket.io        |          
+    Markdown     |     Tape      |              |        Handlebars        |
+                 |               |              |                          |
 --
 
 ### Education
@@ -81,6 +85,10 @@ Projects I worked on at Founders & Coders.
 - [travel destination finder](https://github.com/FAC9/hapi-places)<br>
 - [resource sharing](https://github.com/FAC9/the-badgerer)<br>
 - [oauth project](https://github.com/esraajb/oh-auth)
+
+Freelance projects and hackathons:
+- [shared decision making app](https://github.com/FAC9/childline-yoti)
+- [Scidence Museum Quiz App](https://github.com/Science-Adventurers/game-frontend)
 
 ### Contact
 
