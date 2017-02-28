@@ -49,7 +49,6 @@ A month long paid project to create an MVP for Childline. The goal is to build a
  <img src="./img/fac.png" width="240">
 #### Founders & Coders    
 **October 2016 - February 2017**  
-
 [16-week, full-time course](http://www.foundersandcoders.com/) in full-stack JavaScript software development.
 Peer-led learning environment with emphasis on pair-programming, test driven
 development and agile methodologies. Final projects include building prototypes and MVPs for charities and social enterprises.
@@ -68,8 +67,8 @@ Projects I worked on at Founders & Coders.
 
 Freelance projects and hackathons:
 - [Shared decision making app](https://github.com/FAC9/childline-yoti)
-- [Scidence Museum Quiz App](https://github.com/Science-Adventurers/game-frontend)
-- [Report Online Content](https://github.com/FAC9/childline-yoti)
+- [Scidence Museum quiz app](https://github.com/Science-Adventurers/game-frontend)
+- [Report online content](https://github.com/FAC9/childline-yoti)
 
 ### Contact
 
