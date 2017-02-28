@@ -37,19 +37,18 @@ MSc Chemistry - First-class hons
 **Eötvös Loránd University**, Budapest, Hungary (2010-13) <br>
 BSc Chemistry - Upper second-class hons
 
--
 --
 
 ### Experience
 
-#### Childline Report Online Content
-**February 2017 - March 2017**
+#### Childline Report Online Content  
+**February 2017 - March 2017**  
 A month long paid project to create an MVP for Childline. The goal is to build an app for anonymously reporting explicit explicite online content.  The app uses the Yoti API for age verification. This project was funded after prototype pitches to funders from Yoti.
 
 
  <img src="./img/fac.png" width="240">
-#### Founders & Coders  
-**October 2016 - February 2017**
+#### Founders & Coders    
+**October 2016 - February 2017**  
 
 [16-week, full-time course](http://www.foundersandcoders.com/) in full-stack JavaScript software development.
 Peer-led learning environment with emphasis on pair-programming, test driven
