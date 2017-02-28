@@ -20,7 +20,6 @@ Coding languages |   Testing     |   Databases  |  Frameworks & Libraries  | Oth
      CSS3        |  Circle CI    |              |         Redux            |            
     	SQL        | Nightwatch.js |              |         Socket.io        |          
     Markdown     |     Tape      |              |        Handlebars        |
-                 |               |              |                          |
 --
 
 ### Education
