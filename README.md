@@ -1,6 +1,6 @@
 
 # Nora Denes - CV
-#### Junior full-stack JavaScript developer
+#### Full-stack JavaScript developer
 
 ### Summary
 I am full-stack developer living in London. My background is in Chemistry. Over time, my interest slowly shifted towards Theoretical and Computational Chemistry, and in the end to programming. I have recently graduated from [Founders & Coders](http://www.foundersandcoders.com/), a highly-selective free, peer-lead 16 week long coding bootcamp.
