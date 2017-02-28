@@ -1,7 +1,7 @@
 ## Nora Denes - CV
 Junior Full-Stack Javascript developer
 
-I am junior full-stack developer looking for work in London. My background is in Chemistry, but over time, my interest slowly shifted towards Theoretical and Computational Chemistry, and in the end to programming. I have recently graduated from [Founders & Coders](http://www.foundersandcoders.com/), a highly-selective sixteen week coding bootcamp.
+I am junior full-stack developer looking for work in London. My background is in Chemistry, but over time, my interest slowly shifted towards Theoretical and Computational Chemistry, and in the end to programming. I have recently graduated from [Founders & Coders](http://www.foundersandcoders.com/), a highly-selective 16-week-long coding bootcamp.
 
 I enjoy creating websites that people use. Coming from an academic background, I take huge pleasure in working together with people from diverse backgrounds.
 I am an avid learner, I enjoy that every day there is something new and exciting to play around with.
