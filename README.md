@@ -44,7 +44,7 @@ BSc Chemistry - Upper second-class hons
 
 #### Childline Report Online Content  
 **February 2017 - March 2017**  
-A month long paid project to create an MVP for Childline. The goal is to build an app for anonymously reporting explicit explicite online content.  The app uses the Yoti API for age verification. This project was funded after prototype pitches to funders from Yoti.
+A month long paid project to create an MVP for Childline. The goal is to build an app for anonymously reporting explicit online content.  The app uses the Yoti API for age verification. This project was funded after prototype pitches to funders from Yoti.
 
 
  <img src="./img/fac.png" width="240">
