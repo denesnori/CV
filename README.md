@@ -11,7 +11,7 @@ I am an avid learner, I enjoy that every day there is something new and exciting
 
 I sample of projects that I  worked on can be found on  [ my portfolio webiste](https://denesnori.github.io/portfolio-website/).
 
---
+-----------------------------------------------------
 
 ### Skills
 
@@ -24,7 +24,7 @@ I sample of projects that I  worked on can be found on  [ my portfolio webiste](
 |    	SQL        |         Socket.io           |              |  Nightwatch.js  |  JWT       | 
 |    Markdown     |        Handlebars           |              |     Tape        |             |
     
---
+--------------------------------------------------------
 
 ### Education
 **Founders & Coders**, London (2016-17) <br>
@@ -39,7 +39,7 @@ MSc Chemistry - First-class hons
 **Eötvös Loránd University**, Budapest, Hungary (2010-13) <br>
 BSc Chemistry - Upper second-class hons
 
---
+-------------------------------------------------------------------
 
 ### Experience
 
@@ -76,7 +76,7 @@ Freelance projects and hackathons:
 
 denes.nori4@gmail.com <br>
 
---
+----------------------------------------------------------------------
 
 ### Links
 [Linkedin](https://www.linkedin.com/in/n%C3%B3ra-d%C3%A9nes-1974a0112) -
