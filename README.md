@@ -15,14 +15,15 @@ I sample of projects that I  worked on can be found on  [ my portfolio webiste](
 
 ### Skills
 
-    Languages    |  Frameworks & Libraries     |   Databases  |     Testing     |   Other
-:---------------:|:---------------------------:|:------------:|:--------------: |:-----------:
-    Javascript   |            Hapi             |  postgreSQL  |     QUnit       |  Git/Github    
-     Node.js     |           Express           |    Redis     |    Jasmine      |  Heroku   
-     HTML5       |           React             |              |    Travis CI    |  npm
-     CSS3        |           Redux             |              |    Circle CI    |  OAuth         
-    	SQL        |         Socket.io           |              |  Nightwatch.js  |  JWT        
-    Markdown     |        Handlebars           |              |     Tape        |               
+|    Languages    |  Frameworks & Libraries     |   Databases  |     Testing     |   Other     |
+|:---------------:|:---------------------------:|:------------:|:--------------: |:-----------:|
+|    Javascript   |            Hapi             |  postgreSQL  |     QUnit       |  Git/Github |  
+|     Node.js     |           Express           |    Redis     |    Jasmine      |  Heroku     |
+|     HTML5       |           React             |              |    Travis CI    |  npm        |
+|     CSS3        |           Redux             |              |    Circle CI    |  OAuth      |   
+|    	SQL        |         Socket.io           |              |  Nightwatch.js  |  JWT       | 
+|    Markdown     |        Handlebars           |              |     Tape        |             |
+    
 --
 
 ### Education
