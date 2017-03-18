@@ -21,9 +21,9 @@ I sample of projects that I  worked on can be found on  [ my portfolio webiste](
 |     Node.js     |           Express           |    Redis     |    Jasmine      |  Heroku     |
 |     HTML5       |           React             |              |    Travis CI    |  npm        |
 |     CSS3        |           Redux             |              |    Circle CI    |  OAuth      |   
-|    	SQL        |         Socket.io           |              |  Nightwatch.js  |  JWT       | 
+|    	SQL       |         Socket.io           |              |  Nightwatch.js  |  JWT        | 
 |    Markdown     |        Handlebars           |              |     Tape        |             |
-    
+|     Sass        |                             |              |                 |             |       
 --------------------------------------------------------
 
 ### Education
