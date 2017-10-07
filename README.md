@@ -21,25 +21,10 @@ I sample of projects that I  worked on can be found on  [ my portfolio webiste](
 |     Node.js     |           Express           |    Redis     |    Jasmine      |  Heroku     |
 |     HTML5       |           React             |              |    Travis CI    |  npm        |
 |     CSS3        |           Redux             |              |    Circle CI    |  OAuth      |   
-|    	SQL       |         Socket.io           |              |  Nightwatch.js  |  JWT        | 
+|    	SQL       |         Socket.io           |              |  Nightwatch.js  |  JWT        |
 |    Markdown     |        Handlebars           |              |     Tape        |             |
 |     Sass        |                             |              |                 |             |       
 --------------------------------------------------------
-
-### Education
-**Founders & Coders**, London (2016-17) <br>
-16 week full-stack course
-
-**Eötvös Loránd University**, Budapest, Hungary (2015-16) <br>
-PhD Theoretical Chemistry - unfinished
-
-**Eötvös Loránd University**, Budapest, Hungary (2013-15) <br>
-MSc Chemistry - First-class hons
-
-**Eötvös Loránd University**, Budapest, Hungary (2010-13) <br>
-BSc Chemistry - Upper second-class hons
-
--------------------------------------------------------------------
 
 ### Experience
 
@@ -57,22 +42,19 @@ development and agile methodologies. Final projects include building prototypes 
 
 --------------------------------------------------------------------------------------------------
 
-### Projects
+### Education
+**Founders & Coders**, London (2016-17) <br>
+16 week full-stack course
 
-Projects I worked on at Founders & Coders.
+**Eötvös Loránd University**, Budapest, Hungary (2015-16) <br>
+PhD Theoretical Chemistry - unfinished
 
-- [Blog](https://fac9.github.io/nomastew-blog/) <br>
-- [Stopwatch](https://github.com/FAC9/stopwatch_ewelina_nori)<br>
-- [Playing with an image recognition API](https://github.com/FAC9/gitbusters_api)<br>
-- [Autocomplete app](https://github.com/FAC9/backend-badgers-autocomplete)<br>
-- [Travel destination finder site](https://github.com/FAC9/hapi-places)<br>
-- [Resource sharing website (CMS)](https://github.com/FAC9/the-badgerer)<br>
-- [Github issue tracker site](https://github.com/esraajb/oh-auth)
+**Eötvös Loránd University**, Budapest, Hungary (2013-15) <br>
+MSc Chemistry - First-class hons
 
-Freelance projects and hackathons:
-- [Shared decision making app](https://github.com/FAC9/childline-yoti)
-- [Scidence Museum quiz app](https://github.com/Science-Adventurers/game-frontend)
-- [Report online content](https://github.com/FAC9/childline-yoti)
+**Eötvös Loránd University**, Budapest, Hungary (2010-13) <br>
+BSc Chemistry - Upper second-class hons
+
 
 ### Contact
 
