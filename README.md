@@ -3,34 +3,40 @@
 #### Full-stack JavaScript developer
 
 ### Summary
-I am full-stack developer living in London. My background is in Chemistry. Over time, my interest slowly shifted towards Theoretical and Computational Chemistry, and in the end to programming. I have recently graduated from [Founders & Coders](http://www.foundersandcoders.com/), a highly-selective free, peer-lead 16 week long coding bootcamp.
-
-I am currently seeking for a permanent role with opportunities for growth and learning. I am
-a hard-working, enthusiastic individual with excellent team working skills.
-I am an avid learner, I enjoy that every day there is something new and exciting to play around with.
-
-I sample of projects that I  worked on can be found on  [ my portfolio webiste](https://denesnori.github.io/portfolio-website/).
+I am a full-stack JavaScript developer based in London seeking a role with opportunities for growth and learning. I enjoy the technically rigorous aspects of application development, and working on products that I am passionate about.  I always aim to write clean, testable code.
 
 -----------------------------------------------------
 
 ### Skills
 
-|    Languages    |  Frameworks & Libraries     |   Databases  |     Testing     |   Other     |
-|:---------------:|:---------------------------:|:------------:|:--------------: |:-----------:|
-|    Javascript   |            Hapi             |  postgreSQL  |     QUnit       |  Git/Github |  
-|     Node.js     |           Express           |    Redis     |    Jasmine      |  Heroku     |
-|     HTML5       |           React             |              |    Travis CI    |  npm        |
-|     CSS3        |           Redux             |              |    Circle CI    |  OAuth      |   
-|    	SQL       |         Socket.io           |              |  Nightwatch.js  |  JWT        |
-|    Markdown     |        Handlebars           |              |     Tape        |             |
-|     Sass        |                             |              |                 |             |       
+|    Languages    |  Frameworks & Libraries     |     Testing     |   Other     |
+|:---------------:|:---------------------------:|:--------------: |:-----------:|
+|    Javascript   |            Hapi             |     QUnit       |  Git/Github |  
+|     Node.js     |           Express           |    Jasmine      |  Heroku     |
+|     HTML5       |           React             |      Jest       |  npm        |
+|     CSS3        |    Redux / Redux Saga       |      Tape       |  OAuth      |   
+|    	SQL         |                             |  Nightwatch.js  |  JWT        |
+|    Markdown     |                             |                 |  webpacl    |
+|     Sass        |                             |                 |  gulp       |
+|                 |                             |                 |  babel      |     
 --------------------------------------------------------
 
+
 ### Experience
+
+#### JavaScript Developer (React / Redux / Node) at Ascential
+**March 2017 – Present**
+Responsibilities include building React applications for purchasing and managing festival passes and dynamic websites (event schedules, speakers pages) for the Cannes Lions International Festival of Creativity  and related festivals in creative communications and advertising. The sites are used by thousands of festival attendees prior to and during the events.
+
+Tech stack: JavaScript, React, Redux, Redux Saga, Immutable, Node, Gulp, Webpack, Babel, JSON schemas
+Testing: Jest, Nightwatch
 
 #### Childline Report Online Content  
 **February 2017 - March 2017**  
 A month long paid project to create an MVP for Childline. The goal is to build an app for anonymously reporting explicit online content.  The app uses the Yoti API for age verification. This project was funded after prototype pitches to funders from Yoti.
+
+Tech stack: React.js, Redux, Redux Saga, Sass, Node, Express
+Testing: Jest, Tape
 
 
  <img src="./img/fac.png" width="240">
